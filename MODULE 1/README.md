@@ -1,1 +1,0 @@
-LitCoder Python Solution
